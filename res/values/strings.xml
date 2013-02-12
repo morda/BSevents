@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">BSevents</string>
+    <string name="btnNew">Новое событие</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">BSevents</string>
+    <string name="textView1">This is Activity Two</string>
+	<string name="NewEvents_title">Создать новое событие</string>
+    
+</resources>
